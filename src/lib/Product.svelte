@@ -42,5 +42,5 @@
 		</div>
 		<p>{product.price}</p>
 	</div>
-	<button on:click|preventDefault={editProduct(product)}>Edit</button>
+	<a href={`/products/${product.id}`}>Edit</a>
 </div>

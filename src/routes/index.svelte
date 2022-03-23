@@ -19,14 +19,12 @@
 			</picture>
 		</div>
 
-		to your new<br />SvelteKit app
+		to Ellipis Admin<br />SvelteKit app
 	</h1>
 
 	<h2>
-		try editing <strong>src/routes/index.svelte</strong>
+		Go to <strong><a href="/products">Products</a></strong>
 	</h2>
-
-	<Counter />
 </section>
 
 <style>
